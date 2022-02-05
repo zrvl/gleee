@@ -1,0 +1,40 @@
+$accent: #a3bbc8;
+$default: #8b8b8b;
+$title-slider: #243f4d;
+$title: #1a1a1a;
+$top-bg: #fcd7b6;
+$bottom-bg: #fef7f0;
+$header: #436372;
+
+%dmsans-400{
+  font-family: 'DMSans-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%dmsans-500{
+  font-family: 'DMSans-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%dmsans-700{
+  font-family: 'DMSans-Bold', sans-serif;
+  font-weight: 700;
+}
+
+%rubik-400{
+  font-family: 'Rubik-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%rubik-500{
+  font-family: 'Rubik-Regular', sans-serif;
+  font-weight: 500;
+}
+
+%btn{
+  background-color: $accent;
+  border: none;
+  color: #fff;
+  line-height: 21px;
+  cursor: pointer;
+}
